@@ -105,6 +105,7 @@ public class PlaceObjectsOnPlane : MonoBehaviour
 
         m_SpawnedReticle = Instantiate(m_ReticlePrefab);
         m_SpawnedReticle.SetActive(false);
+        m_PlacedPrefab.SetActive(false);
     }
 
     void Awake()

@@ -9,4 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/ARDemoScene.unity
     guid: 48798ede821483d49ae8944b371fabc2
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 3aa68f4d2bc4906409605f1115d0ad4e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 72bee8799ec93e94f90ea71b90dbde3e, type: 2}
