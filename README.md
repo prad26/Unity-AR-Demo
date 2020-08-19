@@ -1,2 +1,1 @@
-# unity-ar-demo
-Unity ARFoundation Demo
+# Unity ARFoundation Demo
